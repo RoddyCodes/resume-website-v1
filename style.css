@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+h1 {
+    font-size: 50px;
+    color: #ff69b4; /* Light pink */
+}
+
+button {
+    background-color: #3498db; /* Light blue */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2980b9; /* Darker blue */
+}
